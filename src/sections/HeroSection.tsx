@@ -156,8 +156,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenContact }) => {
                 letterSpacing: '-0.01em',
               }}
             >
-              {/* "I'm" in white font */}
-              <span className="text-white">I'm</span>
+              {/* "I'm an" in white bold font */}
+              <span className="text-white font-bold">I'm an</span>
 
               {/* Role name in reference cyan font (#22d3ee) */}
               <span className="relative inline-flex items-center border-b-2 border-[#22d3ee] pb-0.5">
